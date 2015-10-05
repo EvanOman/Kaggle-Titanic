@@ -22,6 +22,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="genderclassmodel.py" />
+    <Compile Include="gendermodel.py" />
+    <Compile Include="myfirstforest.py" />
     <Compile Include="PyTi.py" />
   </ItemGroup>
   <PropertyGroup>
